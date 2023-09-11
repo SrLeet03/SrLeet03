@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**SrLeet03/SrLeet03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently contributing to DDL based,MERN platforms and workflows.
+- 🌱 I’m currently learning about Kubernetes operators. 
+- 💬 Ask me about DevOps and Backend Developement.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sarvesh-raut-aa0961189/">LinkedIn.</a>
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: You can call me 007.
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan2704&theme=dark&layout=compact">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=karan2704&style=for-the-badge">
+</a>
+
+![](https://hit.yhype.me/github/profile?user_id=59080732)
