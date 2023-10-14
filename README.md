@@ -14,3 +14,7 @@
 </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=59080732)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SrLeet03&show_icons=true&locale=en&layout=compact" alt="ash-kodes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrLeet03&" alt="Sarvesh Raut" /></p>
