@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently contributing to DDL based,MERN platforms and workflows.
+- 🔭 I’m currently contributing to DDL based,MERN platforms and MVVM workflows.
 - 🌱 I’m currently learning about Kubernetes operators. 
 - 💬 Ask me about DevOps and Backend Developement.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sarvesh-raut-aa0961189/">LinkedIn.</a>
